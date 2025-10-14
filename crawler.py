@@ -5,12 +5,15 @@ Web scraping logic placeholder
 from serpapi import GoogleSearch
 import json
 import os
+from dotenv import load_dotenv
+
+load_dotenv()  # Load environment variables from .env file
 
 # Create output folder if it doesn't exist
 os.makedirs('output', exist_ok=True)
 
 params = {
-    "api_key": "0de30f8082ef7429122f4ba47e45b587549d606a8f43ef292512053b65e9570a",
+    "api_key": os.getenv("SERPAPI_API_KEY"),
     "engine": "google",
     "google_domain": "google.co.in",
     "q": "AI startups 2025",  # Change this to your topic
