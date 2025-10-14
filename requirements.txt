@@ -1,0 +1,6 @@
+google-search-results
+beautifulsoup4
+requests
+pandas
+langchain
+langchain-google-genai

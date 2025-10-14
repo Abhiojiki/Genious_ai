@@ -1,0 +1,16 @@
+url,headline,brand_mentioned,context,sentiment
+https://www.forbes.com/lists/ai50/,Forbes 2025 AI 50 List - Top Artificial Intelligence ...,YES,"When OpenAI ousted Sam Altman as CEO two years ago, then-CTO Mira Murati stepped in as interim chief.",NEUTRAL
+https://topstartups.io/?industries=Artificial%20Intelligence,"Top 158 AI Startups 2025 | Funded by Sequoia, YC, A16Z",NO,Not mentioned,NEUTRAL
+https://www.ycombinator.com/companies/industry/ai,AI (Artificial Intelligence) Startups funded by ...,NO,Not mentioned,NEUTRAL
+https://explodingtopics.com/blog/ai-startups,60 Growing AI Companies & Startups (2025),NO,Not mentioned,NEUTRAL
+https://skooloflife.medium.com/99-of-ai-startups-will-be-dead-by-2026-heres-why-bfc974edd968,99% of AI Startups Will Be Dead by 2026 — Here's Why,NO,Not mentioned,NEUTRAL
+https://mitsloan.mit.edu/ideas-made-to-matter/10-mit-ai-startups-to-watch-2025,10 MIT AI startups to watch in 2025,NO,Not mentioned,NEUTRAL
+https://techcrunch.com/2025/08/27/here-are-the-33-us-ai-startups-that-have-raised-100m-or-more-in-2025/,Here are the 33 US AI startups that have raised $100M or ...,NO,Not mentioned,NEUTRAL
+https://www.startupblink.com/blog/top-ai-startups/,Top AI Startups in 2025,NO,Not mentioned,NEUTRAL
+https://startupsavant.com/startups-to-watch/ai,50 Top AI Startups to Watch in 2025,YES,"Anthropic tackles the big questions of AI safety by combining cutting-edge research with practical solutions like Claude, its widely used AI assistant..",POSITIVE
+https://startupsavant.com/startups-to-watch/ai,50 Top AI Startups to Watch in 2025,YES,"Anthropic tackles the big questions of AI safety by combining cutting-edge research with practical solutions like Claude, its widely used AI assistant..",POSITIVE
+https://reclaim.ai/blog/top-ai-companies-hiring,Top 16 AI Companies Hiring in 2025 - Startup & Enterprise,NO,Not mentioned,NEUTRAL
+https://backlinko.com/ai-startups,18 AI Startups to Watch in 2025,NO,Not mentioned,Not mentioned
+https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups,Latest AI Startup Funding News and VC Investment Deals,NO,Not mentioned,NEUTRAL
+https://www.youtube.com/watch?v=3MZS5gNElZM,"State of Startups and AI 2025 - Sarah Guo, Conviction",NO,Not mentioned,NEUTRAL
+https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2025/,AI 100: The most promising artificial intelligence startups of ...,NO,Not mentioned,NEUTRAL
